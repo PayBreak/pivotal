@@ -2,6 +2,10 @@
 
 A tool to print tickets from pivotal using pivotal api.
 
+## How to install
+
+- Run `$ composer install`
+
 ## How to use
 
 - Change the constant `TOKEN` to your api token, fund under [your profile](https://www.pivotaltracker.com/profile) in pivotal
