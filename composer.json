@@ -1,0 +1,14 @@
+{
+    "name": "manny/ticket_master",
+    "description": "There are two things I absolutely hate these days, Evan's stupid face and writing out tickets every god damn day for the scrum. This program,script or whatever it becomes is aimed to fix the latter problem.",
+    "authors": [
+        {
+            "name": "Manny",
+            "email": "emmanuel.adeyemi@paybreak.com"
+        }
+    ],
+    "require": {
+        "guzzlehttp/guzzle": "~6.0",
+        "smarty/smarty": "^3.1"
+    }
+}
